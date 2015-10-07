@@ -1,5 +1,5 @@
 # fish-es
-Easily edit text based executable file in your PATH.
+Easily edit text based executable files in your PATH.
 
 * Edit any function previously saved with ***funcsave***
 * Edit any script(Python, Perl, Bash, etc)
