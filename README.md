@@ -8,6 +8,10 @@ Easily edit text based executable files in your PATH.
 * Won't mistakenly edit files whose charset is binary
 * Less typing and forget long paths
 
+```
+Just download and place es.fish inside ~/.config/fish/functions and your done. :)
+```
+
 ### Screenshots:
 
 ###### Attempt to edit a binary
